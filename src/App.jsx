@@ -11,7 +11,7 @@ function App() {
     { name: 'Pasta', price: 0.7 },
   ];
 
-  // const [addedProducts, setAddedProducts] = useState([])
+
 
   return (
     <>
